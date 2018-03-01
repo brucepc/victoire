@@ -89,7 +89,7 @@ Victoire uses GitHub issues, feel free to [create your own](https://github.com/v
 
 ## MIT License
 
-License can be found [here](license.md).
+License can be found [here](LICENSE).
 
 [1]:  Bundle/CoreBundle/README.md
 [2]:  Bundle/BlogBundle/README.md
